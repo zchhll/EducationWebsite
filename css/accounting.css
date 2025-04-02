@@ -1,0 +1,34 @@
+header.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../assets/img/accountingimages/accbackgroundimg.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+ul {
+    font-weight: bold;
+}
+
+li {
+    font-weight: normal;
+}
+
+.left-align-item {
+    text-align: left; /* Aligns text to the left */
+    padding-left: 0;  /* Optional: removes extra padding */
+    list-style-position: inside; /* Optional: aligns bullet closer to text */
+}
+
+.portfolio-item {
+    margin-bottom: 1.5rem; /* Adjust vertical space */
+}
+
+.portfolio-item .col-lg-4 {
+    width: 100%; /* Ensure it takes up the full column width */
+}
+
+

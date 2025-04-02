@@ -1,0 +1,11 @@
+header.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../assets/img/byunotesheaderimg.jpg");
+  /* Make the background fill the container while keeping aspect ratio */
+    background-size: cover; /* Makes the image cover the entire container */
+    background-position: center center;  /* Center the image */
+    background-repeat: no-repeat;  /* No repeat */
+}

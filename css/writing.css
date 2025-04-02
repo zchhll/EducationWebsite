@@ -1,0 +1,18 @@
+header.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../assets/img/writingimages/wrtbackgroundimg3.jpeg");
+    background-size: cover;
+    background-position: center center; 
+    background-repeat: no-repeat;
+  }
+  
+ul {
+    font-weight: bold;
+}
+
+li {
+    font-weight: normal;
+}
